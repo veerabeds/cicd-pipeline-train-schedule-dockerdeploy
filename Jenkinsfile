@@ -36,7 +36,7 @@ stage('Push Docker Image') {
                 }
             }
         }
-}
-}
+
+
             
         
